@@ -1,4 +1,3 @@
 this is my demo file for git practice . 
 the File is now been updated .
-Now I will create a conflict .
-
+Now I will create a conflict
